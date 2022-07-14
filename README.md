@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with the AWS Certified Cloud Practitioner and Google Cloud Certified Digital Leader Exam
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-76/)
-- ⚡ Hobbies: Cricket, Aesthetic Desk Setup, Traveling
+- ⚡ Hobbies: Aesthetic Desk Setup, Traveling, Photography
 
