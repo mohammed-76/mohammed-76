@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammed! 👋
+### Hi there, my name is Mohammed! 👋
 
 - 🔭 I’m currently working on an iOS Mobile App and a Data Science Project
 - 🌱 I’m currently learning SQL, Data Structures, and Algorithms
