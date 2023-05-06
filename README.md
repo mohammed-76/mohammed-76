@@ -1,20 +1,27 @@
-<!--Intro & Headline-->
-<h1 align="center">Hi 👋 I'm Mohammed</h1>
+<!--Greeting & Headline-->
+<h1 align="center">Welcome To My Profile 👋</h1>
 <h3 align="center">CS'25 @ GMU • Student at CodePath.Org</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammed-76&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-76" /> </p>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">About Me</h3>
+
+<p align="center">📍VA, US 🇺🇸</p>
+
+<p align="center">Hi, I am a computer science major at George Mason University's College of Engineering & Computing. Dropping a semester due to contracting COVID-19 was no easy feat, but I knew my passion and unwavering work ethic would bring me back stronger than ever.</p>
+
+<p align="center">As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing these skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for the following internship, part-time, or Co-op positions:</p>
 
 <p align="center">
-<a href="https://linkedin.com/in/mohammed-76" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-76" height="30" width="40" /></a>
+➤ Software Engineer Intern
+</p>
 
-<a href="https://www.hackerrank.com/mohammed76" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammed76" height="30" width="40" /></a>
+<p align="center">
+➤ Mobile App Developer Intern
+</p>
 
-<a href="https://www.leetcode.com/mohammed-76" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed-76" height="30" width="40" /></a>
+<p align="center">
+➤ Data Analyst/Analytics Intern
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -73,3 +80,18 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-76&" alt="mohammed-76" /></p>
+
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mohammed-76" /></p>
+
+<h3 align="center">Connect With Me</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/mohammed-76" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mohammed-76" height="30" width="30" /></a>
+
+<a href="https://www.hackerrank.com/mohammed76" target="blank">
+<img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/lqlkg85sw4sgmp2xvznh" alt="mohammed76" height="30" width="30" /></a>
+
+<a href="https://www.leetcode.com/mohammed-76" target="blank">
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mohammed-76" height="30" width="35" /></a>
+</p>
