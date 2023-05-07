@@ -2,8 +2,10 @@
 <h1 align="center">Welcome To My Profile 👋</h1>
 <h3 align="center">CS'25 @ GMU • Student at CodePath.Org</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammed-76&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-76" /> </p>
+<!--Profile View Count-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammed-76&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
+<!--About Me: Location, Sentences-->
 <h3 align="center">About Me</h3>
 
 <p align="center">📍VA, US 🇺🇸</p>
@@ -12,6 +14,7 @@
 
 <p align="center">As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing my skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for relevant internship, part-time, or co-op positions.</p>
 
+<!--Skills: Languages, Frameworks, Libraries, Tools-->
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
@@ -69,13 +72,17 @@
 
 </p>
 
+<!--GitHub Streaks-->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-76&" alt="mohammed-76" /></p>
 
+<!--LeetCode Profile-->
 <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mohammed-76" /></p>
 
+<!--Socials-->
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
+
 <a href="https://linkedin.com/in/mohammed-76" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mohammed-76" height="30" width="30" /></a>
 
@@ -84,4 +91,5 @@
 
 <a href="https://www.leetcode.com/mohammed-76" target="blank">
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mohammed-76" height="30" width="35" /></a>
+
 </p>
