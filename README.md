@@ -84,12 +84,18 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/mohammed-76" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mohammed-76" height="30" width="30" /></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mohammed-76" height="30" width="30" />
+</a>
 
+<a href="https://replit.com/@mohammed-76" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="Replit.com Logo" height="35" width="33" />
+</a>
+  
 <a href="https://www.hackerrank.com/mohammed76" target="blank">
 <img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/lqlkg85sw4sgmp2xvznh" alt="mohammed76" height="30" width="30" /></a>
 
 <a href="https://www.leetcode.com/mohammed-76" target="blank">
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mohammed-76" height="30" width="35" /></a>
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mohammed-76" height="30" width="35" />
+</a>
 
 </p>
