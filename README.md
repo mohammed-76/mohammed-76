@@ -10,9 +10,13 @@
 
 <p align="center">📍VA, US 🇺🇸</p>
 
-<p align="center">Hi, I am a computer science major at George Mason University's College of Engineering & Computing. Dropping a semester due to contracting COVID-19 was no easy feat, but I knew my passion and unwavering work ethic would bring me back stronger than ever.</p>
+<p align="left">
+  <samp>
+    Hi, I am a computer science major at George Mason University's College of Engineering & Computing. Dropping a semester due to contracting COVID-19 was no easy feat, but I knew my passion and unwavering work ethic would bring me back stronger than ever.<br></br>
+    As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing my skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for relevant internship, part-time, or co-op positions.
 
-<p align="center">As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing my skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for relevant internship, part-time, or co-op positions.</p>
+  </samp>
+</p>
 
 <!--Skills: Languages, Frameworks, Libraries, Tools-->
 <h3 align="center">Languages and Tools</h3>
