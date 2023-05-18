@@ -37,14 +37,18 @@
   </samp>
 </p>
 
+<!-- HIDDEN SECTIONS -->
 
 <!--Skills: Languages, Frameworks, Libraries, Tools-->
+<!--
 <h3 align="center">
   <samp>
   Languages and Tools
   </samp>
 </h3>
+-->
 
+<!--
 <p align="center">
   
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -99,16 +103,32 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 </p>
+-->
 
 <!--GitHub Streaks-->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-76&" alt="mohammed-76" /></p>
+<!--
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-76&" alt="mohammed-76" />
+</p>
+-->
+
+
 
 <!--LeetCode Profile-->
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mohammed-76" /></p>
+<!--
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/mohammed-76" />
+</p>
+-->
 
 <!--Socials-->
-<h3 align="center">Connect With Me</h3>
+<!--
+<h3 align="center">
+  Connect With Me
+</h3>
+-->
 
+<!--
 <p align="center">
 
 <a href="https://linkedin.com/in/mohammed-76" target="blank">
@@ -125,5 +145,5 @@
 <a href="https://www.leetcode.com/mohammed-76" target="blank">
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mohammed-76" height="30" width="35" />
 </a>
-
+-->
 </p>
