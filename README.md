@@ -1,14 +1,33 @@
 <!--Greeting & Headline-->
-<h1 align="center">Welcome To My Profile 👋</h1>
-<h3 align="center">CS'25 @ GMU • Student at CodePath.Org</h3>
 
-<!--Profile View Count-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammed-76&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h1 align="center">
+  <samp>
+    Welcome To My Profile 👋
+  </samp>
+</h1>
+
+
+
+<h3 align="center">
+  <samp>
+    CS @ GMU | Student at CodePath.Org
+  </samp>
+</h3>
+
+<hr>
 
 <!--About Me: Location, Sentences-->
-<h3 align="center">About Me</h3>
+<h3 align="center">
+  <samp>
+    About Me
+  </samp>
+</h3>
 
-<p align="center">📍VA, US 🇺🇸</p>
+<p align="center">
+  <samp>
+  📍VA, US 🇺🇸
+  </samp>
+</p>
 
 <p align="left">
   <samp>
@@ -18,8 +37,13 @@
   </samp>
 </p>
 
+
 <!--Skills: Languages, Frameworks, Libraries, Tools-->
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">
+  <samp>
+  Languages and Tools
+  </samp>
+</h3>
 
 <p align="center">
   
