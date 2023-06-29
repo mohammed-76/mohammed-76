@@ -1,9 +1,7 @@
 <!--Greeting & Headline-->
 
 <h1 align="center">
-  <samp>
-    Hello 👋
-  </samp>
+    Hello 👋🏼
 </h1>
 
 
@@ -32,24 +30,22 @@
 </p>
 
 <p align="left">
-  <samp>
-    Hi, I am currently pursuing my undergraduate degree in Bachelor of Science in Computer Science at George Mason University's College of Engineering & Computing. I faced the unexpected challenge of contracting COVID-19 and had to take a semester off. Despite this setback, I knew my passion and unwavering work ethic would bring me back stronger than ever.
-    <br>
-    <br>
+  Hi, I am currently pursuing my undergraduate degree in Bachelor of Science in Computer Science at George Mason University's College of Engineering & Computing. I faced the unexpected challenge of contracting COVID-19 and had to take a semester off. Despite this setback, I knew my passion and unwavering work ethic would bring me back stronger than ever.
+  <br>
+  <br>
     During my free time this summer, I am consistently learning and building individual technical projects. Some of the major/portfolio projects that I will be able to showcase by the end of this summer are:<br>
-    <br>
+  <br>
     • A Full-Stack Website<br>
     • An iOS Mobile App<br>
     • A Data Science or AI/ML Project<br>
     • Front-End Web App or Game or Automation<br>
-    <br>
+  <br>
     I am preparing for the following cloud certifications:<br>
     • AWS Certified Cloud Practitioner<br>
     • Microsoft Certified: Azure Fundamentals<br>
-    <br>
-    As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing my skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for relevant internship, part-time, or co-op positions.
+  <br>
+  As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing my skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for relevant internship, part-time, or co-op positions.
 
-  </samp>
 </p>
 
 <!-- HIDDEN SECTIONS -->
