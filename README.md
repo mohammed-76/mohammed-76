@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-  Hi, I am currently pursuing my undergraduate degree in Bachelor of Science in Computer Science at George Mason University's College of Engineering & Computing. I faced the unexpected challenge of contracting COVID-19 and had to take a semester off. Despite this setback, I knew my passion and unwavering work ethic would bring me back stronger than ever.
+  Hi, I am currently pursuing my undergraduate degree in Bachelor of Science in Computer Science at George Mason University - College of Engineering & Computing.
   <br>
   <br>
     During my free time this summer, I am consistently learning and building individual technical projects. Some of the major/portfolio projects that I will be able to showcase by the end of this summer are:<br>
