@@ -34,7 +34,7 @@
     During my free time this summer, I am consistently learning and building individual technical projects. Some of the major/portfolio projects that I will be able to showcase by the end of this summer are:<br>
   <br>
     • A Full-Stack Website<br>
-    • An iOS Mobile App<br>
+    • iOS Mobile App<br>
     • A Data Science or AI/ML Project<br>
     • Front-End Web App or Game or Automation<br>
   <br>
