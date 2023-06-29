@@ -24,9 +24,7 @@
 </h3>
 -->
 <p align="center">
-  <samp>
-  📍Santa Clara, CA 🇺🇸
-  </samp>
+    📍Santa Clara, CA 🇺🇸
 </p>
 
 <p align="left">
