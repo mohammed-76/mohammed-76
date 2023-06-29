@@ -25,7 +25,7 @@
 -->
 <p align="center">
   <samp>
-  📍VA, US 🇺🇸
+  📍Santa Clara, CA 🇺🇸
   </samp>
 </p>
 
