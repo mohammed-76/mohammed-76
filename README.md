@@ -24,7 +24,7 @@
 </h3>
 -->
 <p align="center">
-    📍Santa Clara, CA 🇺🇸
+    📍Cupertino, CA 🇺🇸
 </p>
 
 <p align="left">
