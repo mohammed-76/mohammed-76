@@ -37,11 +37,11 @@
     • iOS Mobile App<br>
     • A Data Science or AI/ML Project<br>
     • Front-End Web App or Game or Automation<br>
-  <br>
+<!--   <br>
     I am preparing for the following cloud certifications:<br>
     • AWS Certified Cloud Practitioner<br>
     • Microsoft Certified: Azure Fundamentals<br>
-  <br>
+  <br> -->
   As a firm believer in lifelong learning, I am actively involved with CodePath and Major League Hacking to learn and enhance my technical skills. In addition, I am utilizing my skills in personal or group projects with my friends. As someone who is interested in Software Engineering/Mobile App Development and Data Science, I am actively looking for relevant internship, part-time, or co-op positions.
 
 </p>
