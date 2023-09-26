@@ -31,7 +31,7 @@
   Hi, I am currently pursuing my undergraduate degree in Bachelor of Science in Computer Science at George Mason University - College of Engineering & Computing.
   <br>
   <br>
-    During my free time this summer, I am consistently learning and building individual technical projects. Some of the major/portfolio projects that I will be able to showcase by the end of this summer are (Under development / Private Repository):<br>
+    During my free time this summer, I am consistently learning and building individual technical projects. Some of the major/portfolio projects that I will be able to showcase by the end of this summer are (under development / private repository):<br>
   <br>
     • A Full-Stack Website<br>
     • iOS Mobile App<br>
