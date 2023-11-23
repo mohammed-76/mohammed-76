@@ -1,6 +1,8 @@
 # :postbox: Hello!
 My name is Mohammed. I am a second-year Computer Science student at George Mason University's College of Engineering & Computing. I am interested in Full-stack and iOS Software Engineering with specialty in AI/ML.
 
+> Project(s) are under development in private repositories...deploying soon!
+
 #### Recent Experience:
 -----
 ```
@@ -28,9 +30,4 @@ Other:                     Git/GitHub, REST APIs, JSON, SQL, Xcode
 • Logic & Critical Thinking
 • Discrete Mathematics
 • Relational Database
-```
-#### Technical Projects:
------
-```
-Under Development/Private Repository...Deploying soon!
 ```
