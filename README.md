@@ -3,8 +3,8 @@ My name is Mohammed. I am a second-year Computer Science student at George Mason
 
 > Project(s) are under development in private repositories...deploying soon!
 
-#### Recent Experience:
 -----
+#### Recent Experience:
 ```markdown
 Software Engineer Intern @ Apple Inc.
 Wireless Technologies & Ecosystems
@@ -15,16 +15,16 @@ Software Engineer Intern @ Think Round Inc.
 Full-Stack Web Application
 📍 San Francisco, California (Remote)
 ```
-#### Technical Skills:
 -----
+#### Technical Skills:
 ```markdown
 Languages:                 Java, Python, Swift, HTML/CSS, JS
 Frameworks & Libraries:    SwiftUI, React, Requests
 Cloud Technologies:        AWS, Netlify, Firebase
 Other:                     Git/GitHub, REST APIs, JSON, SQL, Xcode
 ```
-#### Technical Courses:
 -----
+#### Technical Courses:
 ```markdown
 • Object-Oriented Programming
 • Logic & Critical Thinking
