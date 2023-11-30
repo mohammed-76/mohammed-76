@@ -25,8 +25,9 @@ Other:                     Git/GitHub, REST APIs, JSON, SQL, Xcode
 -----
 #### Technical Courses:
 ```markdown
-• Object-Oriented Programming
+• Intro to Computer Programming
+• Object-Oriented Programming (Spring 2024)
 • Logic & Critical Thinking
 • Discrete Mathematics
-• Relational Database
+• Relational Database (Spring 2024)
 ```
