@@ -10,7 +10,7 @@ Wireless Technologies & Ecosystems
 📍 Cupertino, California (On-site)
 ```
 ```markdown
-Software Engineer Intern @ Think Round Inc.
+Software Engineer Intern @ Think Round Inc. (Spring 2024)
 Full-Stack Web Application
 📍 San Francisco, California (Remote)
 ```
