@@ -11,7 +11,7 @@ Wireless Technologies & Ecosystems
 ```
 ```markdown
 Software Engineer Intern @ Think Round Inc. (Spring 2024)
-Full-Stack Web Application
+Human-Centric Software Design & Development
 📍 San Francisco, California (Remote)
 ```
 -----
