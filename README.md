@@ -1,18 +1,25 @@
 # :postbox: Hello!
-My name is Mohammed. I am a second-year Computer Science student at George Mason University's College of Engineering & Computing. I am interested in Full-stack and iOS Software Engineering with a specialty in AI/ML.
+My name is Mohammed. I am a second-year Computer Science student at George Mason University's College of Engineering & Computing. I am interested in Full-stack and iOS Software Engineering with a specialty in AI/ML. I also like to test softwares to solve bugs :)
 
 > Project(s) are under development in private repositories...deploying soon!
 -----
 #### Recent Experience:
+<!--
 ```markdown
-Software Engineer Intern @ Apple Inc.
-Wireless Technologies & Ecosystems
-📍 Cupertino, California (On-site)
+Software Engineer Intern @ WillowTree                ⏱ 2.5 Months
+Test & Automation
+📍 Charlottesville, VA (On-site)
 ```
+-->
 ```markdown
-Software Engineer Intern @ Think Round Inc. (Spring 2024)
+Software Engineer Intern @ Think Round Inc.          ⏱ 4 Months
 Human-Centric Software Design & Development
 📍 San Francisco, California (Remote)
+```
+```markdown
+Software Engineer Intern @ Apple Inc.                ⏱ 4 Months
+Wireless Technologies & Ecosystems
+📍 Cupertino, California (On-site)
 ```
 -----
 #### Technical Skills:
