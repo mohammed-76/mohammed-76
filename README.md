@@ -29,6 +29,7 @@ Frameworks & Libraries:    SwiftUI, React, Requests
 Cloud Technologies:        AWS, Netlify, Firebase
 Other:                     Git/GitHub, REST APIs, JSON, SQL, Xcode
 ```
+<!--
 -----
 #### Technical Courses:
 ```markdown
@@ -38,3 +39,4 @@ Other:                     Git/GitHub, REST APIs, JSON, SQL, Xcode
 • Discrete Mathematics
 • Relational Database (Spring 2024)
 ```
+-->
