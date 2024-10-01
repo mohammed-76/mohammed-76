@@ -4,18 +4,7 @@ My name is Mohammed. I am a second-year Computer Science student at George Mason
 > Project(s) are under development in private repositories...deploying soon!
 -----
 #### Recent Experience:
-<!--
-```markdown
-Software Engineer Intern @ WillowTree                ⏱ 2.5 Months
-Test & Automation
-📍 Charlottesville, VA (On-site)
-```
--->
-```markdown
-Software Engineer Intern @ Think Round Inc.          ⏱ 4 Months
-Human-Centric Software Design & Development
-📍 San Francisco, California (Remote)
-```
+
 ```markdown
 Software Engineer Intern @ Apple Inc.                ⏱ 4 Months
 Wireless Technologies & Ecosystems
