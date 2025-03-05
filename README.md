@@ -13,10 +13,10 @@ Wireless Technologies & Ecosystems
 -----
 #### Technical Skills:
 ```markdown
-Languages:                 Java, Python, Swift, HTML/CSS, JS
-Frameworks & Libraries:    SwiftUI, React, Requests
-Cloud Technologies:        AWS, Netlify, Firebase
-Other:                     Git/GitHub, REST APIs, JSON, SQL, Xcode
+Languages:                 Java, Python, Swift, HTML/CSS
+Frameworks & Libraries:    SwiftUI, Requests
+Cloud Technologies:        AWS
+Other:                     REST APIs, JSON, SQL, Git/GitHub, Xcode
 ```
 <!--
 -----
